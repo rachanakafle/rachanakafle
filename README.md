@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi👋,I'm Rachana Kafle
+A passionate data science enthusiast from Nepal.
 
+I'm deeply fascinated by the power of data to uncover insights, solve complex problems, and drive informed decision-making
 <!--
 **rachanakafle/rachanakafle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
