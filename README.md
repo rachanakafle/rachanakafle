@@ -1,4 +1,4 @@
-### Hi👋,I'm Rachana Kafle
+### Hi👋, I'm Rachana Kafle
 A passionate data science enthusiast from Nepal.
 
 I'm deeply fascinated by the power of data to uncover insights, solve complex problems, and drive informed decision-making.
