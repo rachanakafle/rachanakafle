@@ -12,7 +12,7 @@ A passionate data science enthusiast from Nepal. I'm deeply fascinated by the po
 - ⚡ **Fun fact**: I like to count the number of birds sitting on a wire.
   
 ## Languages and Tools I Use:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i= python,docker,js,html,css)](https://skillicons.dev)
   
 ![Rachana's GitHub stats](https://github-readme-stats.vercel.app/api?username=rachanakafle&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachanakafle&layout=compact)
