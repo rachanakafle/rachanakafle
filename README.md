@@ -11,3 +11,4 @@ More About Me:
 - 📫 **How to reach me**: kaflerachana1@gmail.com or www.linkedin.com/in/rachanakafle/
 - ⚡ **Fun fact**: I like to count the number of birds sitting on a wire.
   
+![Rachana's GitHub stats](https://github-readme-stats.vercel.app/api?username=rachanakafle&show_icons=true&theme=radical)
