@@ -8,6 +8,6 @@ More About Me:
 - 👯**I’m looking to collaborate** on Data science, Deep Learning and LLM projects.
 - 👨‍💻 All of my **projects are available **at https://rachanakafle.github.io/
 - 💬 **Ask me** about Machine Learning, Deep Learning and Data Science.
-- 📫 **How to reach me**: kaflerachana1@gmail.com or linkedin.com/in/rachanakafle/
+- 📫 **How to reach me**: kaflerachana1@gmail.com or www.linkedin.com/in/rachanakafle/
 - ⚡ **Fun fact**: I like to count the number of birds sitting on a wire.
   
