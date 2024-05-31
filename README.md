@@ -12,4 +12,4 @@ More About Me:
 - ⚡ **Fun fact**: I like to count the number of birds sitting on a wire.
   
 ![Rachana's GitHub stats](https://github-readme-stats.vercel.app/api?username=rachanakafle&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/rachanakafle/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachanakafle&layout=compact)
