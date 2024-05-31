@@ -13,7 +13,6 @@ A passionate data science enthusiast from Nepal. I'm deeply fascinated by the po
   
 ## Languages and Tools I Use:
 [![My Skills](https://skillicons.dev/icons?i=python,docker,linux,Latex,js,html,css)](https://skillicons.dev)
-  
-![Rachana's GitHub stats](https://github-readme-stats.vercel.app/api?username=rachanakafle&show_icons=true&theme=dark)
+<!--![Rachana's GitHub stats](https://github-readme-stats.vercel.app/api?username=rachanakafle&show_icons=true&theme=dark)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachanakafle&layout=compact)
 
