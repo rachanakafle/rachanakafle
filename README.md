@@ -3,9 +3,9 @@ A passionate data science enthusiast from Nepal. I'm deeply fascinated by the po
 
 More About Me:
 
-- 🔭 I am **currently studying **in a Masters in Data Science at Friedrich-Alexander-University Erlangen-Nürnberg.
+- 🔭 I am **currently studying**in a Masters in Data Science at Friedrich-Alexander-University Erlangen-Nürnberg.
 - 🌱I am **currently mastering** data analysis and visualization with powerful tools like Power BI and Tableau
-- 👯** I’m looking to collaborate** on Data science, Deep Learning and LLM projects.
+- 👯**I’m looking to collaborate** on Data science, Deep Learning and LLM projects.
 - 👨‍💻 All of my **projects are available **at https://rachanakafle.github.io/
 - 💬 **Ask me** about Machine Learning, Deep Learning and Data Science.
 - 📫 **How to reach me**: kaflerachana1@gmail.com or www.linkedin.com/in/rachanakafle/
