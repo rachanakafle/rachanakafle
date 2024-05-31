@@ -11,8 +11,9 @@ A passionate data science enthusiast from Nepal. I'm deeply fascinated by the po
 - 📫 **How to reach me**: kaflerachana1@gmail.com or www.linkedin.com/in/rachanakafle/
 - ⚡ **Fun fact**: I like to count the number of birds sitting on a wire.
   
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachanakafle&layout=compact)
+
 ## Languages and Tools I Use:
 [![My Skills](https://skillicons.dev/icons?i=python,docker,linux,Latex,js,html,css)](https://skillicons.dev)
 <!--![Rachana's GitHub stats](https://github-readme-stats.vercel.app/api?username=rachanakafle&show_icons=true&theme=dark)-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rachanakafle&layout=compact)
 
